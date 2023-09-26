@@ -1,0 +1,23 @@
+.area{
+    width: 640px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.hole{
+    outline: auto;
+    outline-color: black;
+    height: 140px;
+    width: 140px;
+    background: gray;
+    margin: 5px;
+}
+
+.goblin-hole{
+    background-image: url(../img/goblin.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
