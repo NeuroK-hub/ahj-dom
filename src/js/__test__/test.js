@@ -1,4 +1,4 @@
-import sum from '../bas';
+import sum from '../app';
 
 test('should sum', () => {
   const result = sum([1, 2, 3]);
